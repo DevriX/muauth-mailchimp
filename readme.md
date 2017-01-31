@@ -4,6 +4,8 @@ Multisite Auth MailChimp Addon lets you easily opt-in users from your WordPress 
 
 This plugin uses <a href="https://github.com/drewm/mailchimp-api">MailChimp API</a> lib by <a href="https://github.com/drewm">@drewm</a> to make API calls with MailChimp servers.
 
+This plugin requires the parent plugin <a href="https://github.com/elhardoum/multisite-auth">Multisite Auth</a>
+
 ## Preview
 
 <img src="http://i.imgur.com/sPOHOMo.png" alt="admin setings preview" />
