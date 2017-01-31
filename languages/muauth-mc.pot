@@ -1,0 +1,138 @@
+# Copyright (C) 2017 Multisite Auth MailChimp Addon
+# This file is distributed under the same license as the Multisite Auth MailChimp Addon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Multisite Auth MailChimp Addon 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/muauth-mailchimp\n"
+"POT-Creation-Date: 2017-01-31 18:08:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/functions.php:10
+msgctxt "settings title"
+msgid "MailChimp"
+msgstr ""
+
+#: includes/admin/functions.php:24
+msgid "API credentials:"
+msgstr ""
+
+#: includes/admin/functions.php:27
+msgid ""
+"Enter your <a href=\"http://kb.mailchimp.com/integrations/api-integrations/"
+"about-api-keys\">MailChimp API key</a>:"
+msgstr ""
+
+#: includes/admin/functions.php:32
+msgid "Fetch and select lists:"
+msgstr ""
+
+#: includes/admin/functions.php:35
+msgid "Loading .. (this may take couple seconds)"
+msgstr ""
+
+#: includes/admin/functions.php:39
+msgid "You have %s!"
+msgstr ""
+
+#: includes/admin/functions.php:39
+msgid "%d list"
+msgid_plural "%d lists"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions.php:45
+msgid "ID"
+msgstr ""
+
+#: includes/admin/functions.php:46
+msgid "Name"
+msgstr ""
+
+#: includes/admin/functions.php:47
+msgid "Subscriber count"
+msgstr ""
+
+#: includes/admin/functions.php:72
+msgid "Select 1 or more lists to opt signups in"
+msgstr ""
+
+#: includes/admin/functions.php:75
+msgid "You don't have any lists yet."
+msgstr ""
+
+#: includes/admin/functions.php:79
+msgid "You must enter an API key first!"
+msgstr ""
+
+#: includes/admin/functions.php:82
+msgid "Label:"
+msgstr ""
+
+#: includes/admin/functions.php:85
+msgid "Other settings:"
+msgstr ""
+
+#: includes/admin/functions.php:89
+msgid "Check by default"
+msgstr ""
+
+#: includes/admin/functions.php:94
+msgid "Opt-in users only after account activation"
+msgstr ""
+
+#: includes/admin/functions.php:100
+msgid "Allow user to select which lists to opt-in"
+msgstr ""
+
+#: includes/admin/functions.php:133 muauth-mailchimp.php:63
+msgid "Sign me up for the newsletter!"
+msgstr ""
+
+#: includes/admin/functions.php:168
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/functions.php:194
+msgid "Error, you need to provide an API key first"
+msgstr ""
+
+#: includes/admin/functions.php:205
+msgid "Your mailing lists were fetched successfully!"
+msgstr ""
+
+#: includes/admin/functions.php:210
+msgid ""
+"Error occured while fetching your lists. Make sure the API key is valid, and "
+"try again or later."
+msgstr ""
+
+#: includes/admin/functions.php:271
+msgid ""
+"You have no lists selected yet, please verify your API key and select at "
+"least 1 list in order to opt users in."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Multisite Auth MailChimp Addon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://samelh.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "MailChimp addon for Multisite Auth plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Samuel Elh"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://samelh.com"
+msgstr ""
