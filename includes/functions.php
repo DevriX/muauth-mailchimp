@@ -100,9 +100,6 @@ function muauth_mc_optin_email($email_address, $list_id) {
         $list_ids = array( sanitize_text_field($list_id) );
     }
 
-    // debug
-    return update_site_option('optin_'.$email_address, $list_ids);
-
     foreach ( $list_ids as $_list_id ) {
         $response[$_list_id] = $mailchimp->post("lists/{$_list_id}/members", array(
             'email_address' => $email_address,
